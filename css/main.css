@@ -1,0 +1,65 @@
+*{
+  box-sizing: border-box;
+
+}
+
+body {
+  margin: 0;
+  position: absolute;
+  font-family: sans-serif;
+  margin-bottom: auto;
+  padding: 0px;
+}
+
+#header{
+  background-color: black;
+  width: auto;
+  height: 6em;
+
+}
+
+.logo_top{
+  width: 4em;
+  height: auto;
+  margin-top: auto;
+}
+
+ul{
+  text-decoration: none;
+  width: 100%;
+  height: auto;
+  text-align: center;
+  clear: both;
+  position: absolute;
+}
+
+li{
+  vertical-align: center;
+  margin-left: center;
+}
+
+}
+
+nav {
+  margin-left: auto;
+  padding: 0px;
+  border: 0px;
+  vertical-align: center;
+}
+
+
+.spotify_top{
+  width: 7em;
+  height: auto;
+  float: right;
+  margin-top: 30px;
+  margin-right: 20px;
+  clear: both;
+}
+
+
+
+.carrusel img {
+  width: 100%;
+  height: auto;
+}
